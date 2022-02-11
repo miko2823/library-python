@@ -1,5 +1,5 @@
 # library-python
 
 ```bash
-$ pip install git+https://github.com/miko2823kao/library-python.git
+$ pip install git+https://github.com/miko2823/library-python.git
 ```
